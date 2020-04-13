@@ -8,14 +8,14 @@
 
 ### [+] Installation :
 * ```apt update```
-* ```apt install git pyhon2 -y```
+* ```apt install git python2 -y```
 * ```git clone https://github.com/htr-tech/uncompyle```
 * ```cd uncompyle```
 * ```python2 uncompyle.py```
 
 ### Or ; Use Single Command
 ```
-apt update && apt install git pyhon2 -y && git clone https://github.com/htr-tech/uncompyle && cd uncompyle && python2 uncompyle.py
+apt update && apt install git python2 -y && git clone https://github.com/htr-tech/uncompyle && cd uncompyle && python2 uncompyle.py
 ```
 ### Find Me On :
 [![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/htr-tech)
