@@ -4,7 +4,7 @@
 [![Author](https://img.shields.io/badge/Author-htr--tech-blue.svg?style=for-the-badge)](https://github.com/htr-tech)
 [![Python](https://img.shields.io/badge/Code-Python-green.svg?style=flat-square)](#)
 
-[![Image](https://i.ibb.co/MS8zs6c/uncompyle.png)](#)
+[![Image](https://raw.githubusercontent.com/htr-tech/release-download/master/images/uncompyle.png)](#)
 
 ### [+] Installation :
 * ```apt update```
